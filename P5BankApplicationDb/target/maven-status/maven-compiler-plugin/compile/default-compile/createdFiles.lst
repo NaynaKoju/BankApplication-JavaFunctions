@@ -1,0 +1,6 @@
+com\mycompany\model\User.class
+com\mycompany\controller\UserHandler.class
+com\mycompany\controller\AccountHandler.class
+com\mycompany\model\Account.class
+com\mycompany\controller\DbConnection.class
+com\mycompany\view\MainView.class
